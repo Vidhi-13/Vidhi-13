@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vidhi-13
+- 👋 Hi, I’m Vidhi Patel.
 - 👀 I’m interested in Data Analytics and Visualization, Web design, Content writing and Graphics, Networking
 - 🌱 I’m currently exploring new technologies
 - 📫 Reach me: patelvidhi1312@gmail.com
