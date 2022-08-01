@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidhi-13
-- 👀 I’m interested in Web design, AI/ML, Wordpress, Testing, Graphics, Networking, Exploring new technologies
-- 🌱 I’m currently learning Java, AI/ML
+- 👀 I’m interested in Data Analytics and Visualization, Web design, Content writing and Graphics, Networking
+- 🌱 I’m currently exploring new technologies
 - 📫 Reach me: patelvidhi1312@gmail.com
 
 <!---
