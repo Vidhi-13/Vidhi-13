@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vidhi Patel.
-- 👀 I’m interested in Data Analytics and Visualization, Web design, Content writing and Graphics, Networking
+- 👀 I’m interested in Data Analytics and Visualization, Product analytics, Graphic design, Content writing.
 - 🌱 I’m currently exploring new technologies
-- 📫 Reach me: patelvidhi1312@gmail.com
+-  Linkedin - https://www.linkedin.com/in/vidhii-patel/
 
 <!---
 Vidhi-13/Vidhi-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
